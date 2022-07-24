@@ -19,7 +19,7 @@ This is a template for a react app that is built upon webpack without the use of
 
 ## How to use:
 
-To clone this repository
+To clone this repository:
 
 ```bash
 git clone https://github.com/Kijimai/webpack-react-app-template.git
