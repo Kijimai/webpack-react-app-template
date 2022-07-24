@@ -2,7 +2,7 @@
 
 ## What is this?
 
-This is a template for a react app that is built upon webpack without the use of create-react-app and its preinstalled packages.
+This is a template for a react app that is built upon webpack without the use of create-react-app and its preinstalled packages. AKA there's less bloat and it's faster.
 
 ---
 
