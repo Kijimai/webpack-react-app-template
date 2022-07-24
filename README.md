@@ -13,7 +13,7 @@ This is a template for a react app that is built upon webpack without the use of
   - The base folder contains the base.scss file that has basic css resets with the box-sizing set to border-box
 - A complementary goobbue image <br>
   <img src="./src/assets/goob.png" width="200" style="display: block;"/>
-  hhhhhhhhhhhhhhhhhhh
+  <br>hhhhhhhhhhhhhhhhhhh
 
 ---
 
